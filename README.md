@@ -19,11 +19,16 @@ In order to make online predictions you should train a model and then run the "V
 # References
 
 If you use the code for training models, please cite the corresponding papers:
+
 E. Chondrodima, N. Pelekis, A. Pikrakis and Y. Theodoridis, "An Efficient LSTM Neural Network-Based Framework for Vessel Location Forecasting," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2023.3247993.
+
 E. Chondrodima, P. Mandalis, N. Pelekis and Y. Theodoridis, "Machine Learning Models for Vessel Route Forecasting: An Experimental Comparison," 2022 23rd IEEE International Conference on Mobile Data Management (MDM), Paphos, Cyprus, 2022, pp. 262-269, doi: 10.1109/MDM55031.2022.00056.
+
 P. Mandalis, E. Chondrodima, Y. Kontoulis, N. Pelekis and Y. Theodoridis, "Towards a Unified Vessel Traffic Flow Forecasting Framework," EDBT/ICDT 2023 Joint Conference, Ioannina, Greece, 2023
 
+
 If you use the code for online prediction, please cite the corresponding paper:
+
 P.Tampakis, E.Chondrodima, A.Pikrakis, Y.Theodoridis, K.Pristouris, H.Nakos, E.Petra, T.Dalamagas, A.Kandiros, G.Markakis, I.Maina, S.Kavadas, "Sea Area Monitoring and Analysis of Fishing Vessels Activity: The i4sea Big Data Platform," 2020 21st IEEE International Conference on Mobile Data Management (MDM), Versailles, France, 2020, pp. 275-280, doi: 10.1109/MDM48529.2020.00063.
 
 
